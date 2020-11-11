@@ -1,0 +1,12 @@
+﻿@model ShopWatchViewModel
+<div class=" container">
+    @foreach (var el in Model.ShopWatch.listShopItems)
+    {
+        <div class="alert alert-warning mt-3">
+            <b>Часы:</b> @el.watch.name<br />
+            <b>Стоимость:</b> @el.watch.price.ToString("c")
+        </div>
+    }
+    <hr/>
+    <div class="btn btn-danger" asp-controller =" Order">Оплатить</div>
+</div>

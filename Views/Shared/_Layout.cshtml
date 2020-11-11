@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+            <h5 class="my-0 mr-md-auto font-weight-normal">ONLN STR</h5>
+            <nav class="my-2 my-md-0 mr-md-3">
+                <a class="p-2 text-dark" href="/">Главная страница</a>
+                <a class="p-2 text-dark" href="#">Про нас</a>
+                <a class="p-2 text-dark" href="#">Избранное</a>
+                <a class="p-2 text-dark" href="/ShopWatch/">Корзина</a>
+
+            </nav>
+            <a class="btn btn-outline-dark" href="#">Войти</a>
+        </div>
+                <form class="form-inline mt-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Поиск</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+    <div class="container mt-5">
+        @RenderBody()
+    </div>
+    <footer class="container">
+        <div class="footer-contacts">
+            <a href="tel:+78432073192" rel="nofollow" class="phone-no">+7 (843) 207-31-92</a>
+            <div class="adds">г. Казань, пр. Победы 141 "ТРЦ Мега"</div>
+            <div class="work-time">10:00—21:00 МСК</div>
+            <a href="#modal-call" class="link-feedback magnificPopup">Обратная связь</a>
+        </div>
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>© 2020 Company, Inc. · <a href="#">Privacy</a></p>
+    </footer>
+    <script src="~/js/bootstrap.min.js"></script>
+</body>
+</html>

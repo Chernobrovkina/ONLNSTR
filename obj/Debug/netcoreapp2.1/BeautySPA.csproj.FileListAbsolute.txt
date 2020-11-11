@@ -1,0 +1,16 @@
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\BeautySPA.deps.json
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\BeautySPA.runtimeconfig.json
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\BeautySPA.runtimeconfig.dev.json
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\BeautySPA.dll
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\bin\Debug\netcoreapp2.1\BeautySPA.pdb
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.csprojAssemblyReference.cache
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.AssemblyInfoInputs.cache
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.AssemblyInfo.cs
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.RazorAssemblyInfo.cache
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.RazorAssemblyInfo.cs
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.RazorTargetAssemblyInfo.cache
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.dll
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.pdb
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.genruntimeconfig.cache
+C:\Users\1295909\source\repos\BeautySPA\BeautySPA\obj\Debug\netcoreapp2.1\BeautySPA.csproj.CoreCompileInputs.cache

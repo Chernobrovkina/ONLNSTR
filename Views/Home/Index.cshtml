@@ -1,0 +1,13 @@
+﻿
+@model HomeViewModel
+
+@using BeautySPA.Data.Models
+<h1> Популярные модели умных часов </h1>
+<div class=" row mt-5 mb-2">
+    @{
+        foreach (Watch watch in Model.favwatch)
+        {
+            @Html.Partial("AllWatch", watch)
+        }
+    }
+</div>
